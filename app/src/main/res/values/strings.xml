@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">recyclerDB</string>
+    <string name="telefono">Telefono:</string>
+    <string name="nombre">Nombre:</string>
+</resources>
